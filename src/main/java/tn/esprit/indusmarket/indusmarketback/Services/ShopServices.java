@@ -15,4 +15,8 @@ public interface ShopServices {
     public List<Shop> ShowAllShopsByUser(int idUser);
     public List<Product> GenerateCatalog();
 
+
+
+
+
 }
